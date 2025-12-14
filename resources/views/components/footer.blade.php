@@ -116,7 +116,7 @@
         <!-- Copyright -->
         <div class="border-t border-gray-800 pt-8 text-center">
             <p class="text-gray-500">
-                &copy; {{ date('Y') }} WebSiteInAja. Semua hak dilindungi undang-undang.
+                &copy; {{ date('Y') }} WebSiteInAja. All Rights Reserved.
             </p>
         </div>
     </div>
